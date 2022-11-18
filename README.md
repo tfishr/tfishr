@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a rel="me" href="https://techhub.social/@tf">Mastodon</a>
+<a rel="me" href="https://hachyderm.io/@tf">Mastodon</a>
